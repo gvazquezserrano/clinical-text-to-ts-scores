@@ -81,11 +81,11 @@ All datasets are available through [PhysioNet](https://physionet.org) after comp
 If you use this code, please cite our paper:
 
 ```bibtex
-@article{VazquezSerrano_Enhancing_202X,
+@article{VazquezSerrano_Enhancing_2026,
   title={{Enhancing Early Mortality Prediction with Clinical Notes as Time-Series Scores}},
   author={V{\'a}zquez-Serrano, Gabriel and Oronoz, Maite and P{\'e}rez, Alicia},
-  journal={JOURNAL-PLACEHOLDER},
-  year={202X},
+  journal={IEEE Transactions on Human-Machine Systems},
+  year={2026},
   volume={XX},
   number={XX},
   pages={XX-XX},
