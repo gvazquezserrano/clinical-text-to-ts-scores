@@ -86,10 +86,10 @@ If you use this code, please cite our paper:
   author={V{\'a}zquez-Serrano, Gabriel and Oronoz, Maite and P{\'e}rez, Alicia},
   journal={IEEE Transactions on Human-Machine Systems},
   year={2026},
-  volume={XX},
-  number={XX},
-  pages={XX-XX},
-  doi={DOI-PLACEHOLDER}
+  volume={},
+  number={},
+  pages={},
+  doi={10.1109/THMS.2026.3697894}
 }
 ```
 
